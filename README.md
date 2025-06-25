@@ -50,7 +50,7 @@ Este projeto é uma **Calculadora** desenvolvida em React JS. Este projeto foi c
 
 ---
 
-## 📸 Preview  
+## Preview  
 
 ![Calculadora em React](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHhoOGxoOXBtYmN2anZsNjNzaTNrMmJ6dG1zeTk5b21sYmo3Z2ZkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dGBX7bGz0hHIi32Ohz/giphy.gif)
 
